@@ -19,3 +19,4 @@ I'm Muhammad Akbar
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/muhammad-akbar-659103272/">LinkedIn</a>
+- <a href="https://wa.me/6281248175090?text=Hi%2C%20Saya%20tertarik%20melihat%20Profile%20Github%20anda.">WhatsApp</a>
