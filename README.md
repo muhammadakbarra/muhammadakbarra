@@ -3,7 +3,7 @@
 I'm Muhammad Akbar
 
 - 🔭 I’m currently working as an IT Consultant and Fullstack Developer
-- 🌱 I’m currently building my business, bangunwebsite.id
+- 🌱 I’m currently building my business, [bangunwebsite.id](https://bangunwebsite.id)
 - 👯 I’m looking to collaborate on Software and AI projects
 - 💬 Ask me about Web Development, Application Maintenance, and Application Development
 
